@@ -1,5 +1,5 @@
 # BattleShip-ServerCompatible
-## Made in CS3500 at Northeastern University
+### Made in CS3500 at Northeastern University
 An online Battleship program that can be played via connection to a server or manually in terminal with an AI.
 
 ## Contributors: @angelina-dong
